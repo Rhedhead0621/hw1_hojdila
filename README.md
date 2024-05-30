@@ -42,6 +42,11 @@ output: used for the pandas and sweetviz reports
 
 *I tried a few different ways to convert the tree image to a pdf or html doc, the webbrowser option will open it in a picture viewer window in the main folder; if I try the ./output/ path, it opens an Edge browser and won't display the image
 
+***Main project file: hw1_hojdila_Final.ipynb***
+
+Decision_Tree_HW1.ipynb is a working file to get the tree model to work, then the code was brought into the main project file
+
+NotesToSave.ipynb contains items I found along the way
 
 
 Information on using this cookiecutter
