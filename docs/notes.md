@@ -1,4 +1,4 @@
-# Project hw1_hojdila notes
+# Project hw1_hojdila notes - see the README.md in the main directory
 
  
 This is where you can write notes in markdown if you'd like.
